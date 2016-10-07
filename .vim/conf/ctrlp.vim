@@ -1,4 +1,5 @@
 set runtimepath^=~/.vim/bundle/ctrlp.vim
+:nnoremap <C-P> :CtrlP
 let g:ctrlp_cmd = 'CtrlP'
 let g:ctrlp_match_window = 'order:ttb'
 if executable('ag')
