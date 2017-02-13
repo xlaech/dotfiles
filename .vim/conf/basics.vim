@@ -15,10 +15,10 @@ set list
 set listchars=tab:.\ 
 
 " (de)indent
-nmap > >>
-nmap < <<
-vnoremap > >gv
-vnoremap < <gv
+"nmap > >>
+"nmap < <<
+"vnoremap > >gv
+"vnoremap < <gv
 
 " use H/L instead of ^/$
 nnoremap H ^

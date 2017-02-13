@@ -6,6 +6,7 @@ filetype plugin indent on
 map <F1> <ESC>
 imap <F1> <ESC>
 
+set backspace=indent,eol,start
 set wildmenu
 set wildignore=*.dll,*.o,*.pyc,*.bak,*.exe,*.jpg,*.jpeg,*.png,*.gif,*.class,Desktop/,*.hi
 set wildmode=list:full
